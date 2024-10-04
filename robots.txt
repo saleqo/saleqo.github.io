@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://saleqo.github.io/iYK/sitemap.iYK.gz
